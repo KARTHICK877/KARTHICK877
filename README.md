@@ -6,9 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick877&label=Profile%20views&color=0e75b6&style=flat
 " /> </p>
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthick877)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick877" alt="karthick877" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthick877)]("https://github-profile-trophy.vercel.app)
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -52,7 +53,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
