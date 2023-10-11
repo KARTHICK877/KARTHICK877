@@ -7,7 +7,31 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 💬 Ask me about **REACT JS  JAVASCRIPT**
+- # Hi 👋, I'm KARTHICK
+
+## A passionate MERN STACK developer from India
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthick877&label=Profile%20views&color=0e75b6&style=flat)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=karthick877)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
+
 - 💬 Ask me about **REACT JSX JS ETC**
+
+## Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/karthick-k-r-04547028a/)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/karthick.k.r)
+
+## Languages and Tools:
+
+<!-- You can use the GitHub README Stats or GitHub Readme Streak Stats to generate dynamic content. -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick877&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthick877&show_icons=true&locale=en)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=karthick877)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
