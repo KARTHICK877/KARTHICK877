@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 <p align="center">
 <br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick877" alt="karthick877" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick877&label=Profile%20views&color=0e75b6&style=flat
 " /> </p>
