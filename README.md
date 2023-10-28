@@ -53,7 +53,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/karthick-k-r-04547028a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karthick-k-r-04547028a/" height="30" width="40" /></a>
-<a href="https://fb.com/karthick .k.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthick .k.r" height="30" width="40" /></a>
+
 </p>
 <br>
 
